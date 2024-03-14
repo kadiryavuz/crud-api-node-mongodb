@@ -1,1 +1,3 @@
-CRUD API with NodeJS and MondoDB
+CRUD API with NodeJS, Express and MondoDB
+
+(to be updated)

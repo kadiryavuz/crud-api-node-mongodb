@@ -10,6 +10,7 @@ app.get('/', (req: Request, res: Response) => {
   res.send('Express server');
 })
 
+// TODO: Change server startup message
 app.listen(port, () => {
   console.log(`[server]: Server is running at http://localhost:${port}`);
 })
